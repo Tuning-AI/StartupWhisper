@@ -26,3 +26,4 @@ It's important to note that while our assistant is a powerful tool, it's not wit
 + **Langchain**: We've implemented Langchain for the chat functionality, enabling smooth interactions with the assistant.
 + **Transformers**: The Transformers library is the backbone for fine-tuning and integrating advanced language models into our project.
 + **Streamlit**: For an interactive and user-friendly interface, we've incorporated Streamlit. This web app framework simplifies the presentation of our assistant, making it accessible and engaging for users.
++ **ElevenLabs Text-to-Speech API**: The official Python API for ElevenLabs text-to-speech software is utilized to provide audio output capabilities. This integration brings lifelike and expressive voices to the assistant, enhancing the accessibility of information.
