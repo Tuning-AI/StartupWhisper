@@ -1,5 +1,7 @@
 # Startups Assistant
 
+![Screenshot at 2023-09-15 20-17-23](https://github.com/Tuning-AI/startups_Assistant/assets/145156896/6283363c-d84a-4b7b-a32d-0a6e37ee2557)
+
 ## Overview
 Welcome to the Startups Assistant project! This AI-powered assistant is designed to provide valuable information and support for startups, with a focus on Algerian tax law and startup-related topics.
 ## Model: **Llama2_13B_startup_Assistant**
@@ -18,3 +20,4 @@ It's important to note that while our assistant is a powerful tool, it's not wit
 ## Frameworks
 + **Langchain**: We've implemented Langchain for the chat functionality, enabling smooth interactions with the assistant.
 + **Transformers**: The Transformers library is the backbone for fine-tuning and integrating advanced language models into our project.
++ **Streamlit**: For an interactive and user-friendly interface, we've incorporated Streamlit. This web app framework simplifies the presentation of our assistant, making it accessible and engaging for users.
