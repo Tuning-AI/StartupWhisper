@@ -1,4 +1,4 @@
-# Startups Assistant
+# StartupWhisper
 
 ![Screenshot at 2023-09-15 20-17-23](https://github.com/Tuning-AI/startups_Assistant/assets/145156896/6283363c-d84a-4b7b-a32d-0a6e37ee2557)
 
