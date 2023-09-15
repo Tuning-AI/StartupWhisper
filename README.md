@@ -6,11 +6,16 @@
 Welcome to the Startups Assistant project! This AI-powered assistant is designed to provide valuable information and support for startups, with a focus on Algerian tax law and startup-related topics.
 ## Model: **Llama2_13B_startup_Assistant**
 The heart of this assistant is the Llama2_13B_startup_Assistant language model. It has been fine-tuned using a custom dataset and the innovative QLORA (Quantized LoRA) fine-tuning technique. This model is capable of generating both text and audio outputs, enhancing the user experience.
+https://huggingface.co/TuningAI/Llama2_13B_startup_Assistant
 ## Features
 * **Text Output**: Get detailed and informative responses to your startup-related questions.
 * **Audio Output**: For those who prefer to listen, our assistant can provide spoken answers, making information accessible in multiple ways.
 ## Fine-tuning Technique
 The QLORA technique extends the principles of LoRA and introduces 4-bit NormalFloat (NF4) quantization, optimizing parameter efficiency during fine-tuning. This ensures that our assistant delivers relevant and reliable insights
+## Dataset:
+This model was fine-tuned on a custom dataset meticulously curated with 200 unique examples. The dataset incorporates both manual entries and contributions from GPT3.5, GPT4, and Falcon 180B models.
+https://huggingface.co/datasets/TuningAI/Startups_V2
+
 ## Use Cases
 * **Startup Guidance**: Receive advice and recommendations for your startup journey.
 * **Algerian Startups Tax Law**: Get assistance in navigating tax laws and regulations specific to Algeria.
