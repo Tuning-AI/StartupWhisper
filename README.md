@@ -3,7 +3,7 @@
 ![Screenshot at 2023-09-15 20-17-23](https://github.com/Tuning-AI/startups_Assistant/assets/145156896/6283363c-d84a-4b7b-a32d-0a6e37ee2557)
 
 ## Overview
-Welcome to the Startups Assistant project! This AI-powered assistant is designed to provide valuable information and support for startups, with a focus on Algerian tax law and startup-related topics.
+Welcome to StartupWhisper project! This AI-powered assistant is designed to provide valuable information and support for startups, with a focus on Algerian tax law and startup-related topics.
 ## Model: **Llama2_13B_startup_Assistant**
 The heart of this assistant is the Llama2_13B_startup_Assistant language model. It has been fine-tuned using a custom dataset and the innovative QLORA (Quantized LoRA) fine-tuning technique. This model is capable of generating both text and audio outputs, enhancing the user experience.
 https://huggingface.co/TuningAI/Llama2_13B_startup_Assistant
