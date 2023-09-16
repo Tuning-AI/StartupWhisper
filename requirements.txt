@@ -3,3 +3,6 @@ bitsandbytes==0.40.2
 transformers==4.31.0 
 langchain  
 xformers
+elevenlabs
+streamlit
+Pillow

@@ -1,6 +1,6 @@
 from langchain.chains import ConversationChain
 from langchain.memory import ConversationBufferWindowMemory
-from utils import local_llm , audiof
+from lib.utils import local_llm , audiof
 import streamlit as st
 from PIL import Image
 llm_model = local_llm()
