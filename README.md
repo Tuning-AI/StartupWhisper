@@ -34,3 +34,5 @@ It's important to note that while our assistant is a powerful tool, it's not wit
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+- Created By Kirouane Ayoub 
